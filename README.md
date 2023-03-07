@@ -49,5 +49,5 @@
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
 
   <img src="https://streak-stats.demolab.com?user=LoviMadaan&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=LoviMadaan&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=LoviMadaan&theme=cobalt&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>

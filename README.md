@@ -5,7 +5,7 @@
   A full-stack web developer from India 🇮! animated typed out" width="90%" align="middle"/>  
 </div>
 <img src="./borderseparator.gif" width="100%"/>
-<p align="left">I’m interested in using data for good by building a front end that meets the daily needs of users.A full-stack web developer from India 🇮🇳 </p>
+<p align="left">I’m interested in using data for good by building a front end that meets the daily needs of users.</p>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 

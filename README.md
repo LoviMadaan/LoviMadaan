@@ -5,7 +5,16 @@
   A full-stack web developer from India 🇮! animated typed out" width="90%" align="middle"/>  
 </div>
 <img src="./borderseparator.gif" width="100%"/>
+<h3 align="center">I am a passionate frontend developer</h3>
 <p align="left">I’m interested in using data for good by building a front end that meets the daily needs of users and open to new opportunities.</p>
+
+ 🌱 I’m currently working with **JAVASCRIPT & API**
+
+- 📫 How to reach me **lovimadaan@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -51,9 +60,5 @@
   <img src="https://streak-stats.demolab.com?user=LoviMadaan&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=LoviMadaan&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
-
-<h3>📫 Connect with Me</h3>
-
-- Write Me an [Email](lovinarang@gmail.com) 💌
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovi-madaan-b27439175/) [![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=black)](https://lovimadaan.github.io/My-Portfolio-desktop-version/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lovinarang)

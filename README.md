@@ -5,7 +5,7 @@
   A full-stack web developer from India 🇮! animated typed out" width="90%" align="middle"/>  
 </div>
 <img src="./borderseparator.gif" width="100%"/>
-<h3 align="center">I am a passionate frontend developer</h3>
+<h3 align="center">I am a passionate frontend developer from India</h3>
 <p align="left">I’m interested in using data for good by building a front end that meets the daily needs of users and open to new opportunities.</p>
 
 - I’m currently working with **JAVASCRIPT & API**

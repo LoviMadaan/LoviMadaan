@@ -15,6 +15,8 @@
 </p>
 - 📫 How to reach me **lovimadaan@gmail.com**
 
+<br>
+
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovi-madaan-b27439175/) [![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=black)](https://lovimadaan.github.io/My-Portfolio-desktop-version/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lovinarang)
   
   <br>

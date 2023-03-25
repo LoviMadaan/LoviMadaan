@@ -8,7 +8,7 @@
 <h3 align="center">I am a passionate frontend developer</h3>
 <p align="left">I’m interested in using data for good by building a front end that meets the daily needs of users and open to new opportunities.</p>
 
- 🌱 I’m currently working with **JAVASCRIPT & API**
+  I’m currently working with **JAVASCRIPT & API**
 
 - 📫 How to reach me **lovimadaan@gmail.com**
 

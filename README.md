@@ -8,14 +8,14 @@
 <h3 align="center">I am a passionate frontend developer from India</h3>
 <p align="left">I’m interested in using data for good by building a front end that meets the daily needs of users and open to new opportunities.</p>
 
-- I’m currently working with **JAVASCRIPT & API**
-
-- 📫 How to reach me **lovimadaan@gmail.com**
+ I’m currently working with **JAVASCRIPT & API**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
+- 📫 How to reach me **lovimadaan@gmail.com**
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovi-madaan-b27439175/) [![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=black)](https://lovimadaan.github.io/My-Portfolio-desktop-version/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lovinarang)
+  <br>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -53,8 +53,6 @@
        <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p> <br>
-
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovi-madaan-b27439175/) [![portfolio](https://img.shields.io/badge/my_portfolio-ffc01d?style=for-the-badge&logo=ko-fi&logoColor=black)](https://lovimadaan.github.io/My-Portfolio-desktop-version/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lovinarang)
 
   <div align="center">
   <h2> 🏆 My Github Stats <img src="./borderseparator.gif"/></h2><br>
